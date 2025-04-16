@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xTeel-Code's Blog</title><link>https://example.org/</link><description>Recent content on xTeel-Code's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 14:15:15 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadow in Virtual Space</title><link>https://example.org/posts/shadow-in-virtual-space/</link><pubDate>Wed, 16 Apr 2025 14:15:15 +0200</pubDate><guid>https://example.org/posts/shadow-in-virtual-space/</guid><description>&lt;h1 id="table-of-contents">Table of Contents&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="#tempdisposable-emails">Temp/Disposable Emails&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#browser">Browser&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#search-engine">Search Engine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#operating-systems">Operating Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#messenger">Messenger&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#anti-trackers-and-scripts">Anti-Trackers and Scripts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#going-off-grid">Going Off Grid&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#burner-phones">Burner Phones&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#non-network-devices">Non-network Devices&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#awareness-of-metadata">Awareness of Metadata&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#tips-and-tricks">Tips and Tricks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#recommended-tools-and-resources">Recommended Tools and Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#security-myths">Security Myths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#levels-of-paranoia">Levels of Paranoia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tempdisposable-emails">Temp/Disposable Emails&lt;/h2>
+&lt;ul>
+&lt;li>ProtonMail – Encrypted email service based in Switzerland.&lt;/li>
+&lt;li>Tutanota – Open-source email with end-to-end encryption.&lt;/li>
+&lt;li>TempMail – Quick-use disposable email for verification.&lt;/li>
+&lt;/ul>
+&lt;h2 id="browser">Browser&lt;/h2>
+&lt;ul>
+&lt;li>Brave – Privacy-focused browser with built-in adblock.&lt;/li>
+&lt;li>Firefox (Arkenfox) – Hardened privacy settings via arkenfox.js.&lt;/li>
+&lt;li>LibreWolf – A Firefox fork focused on privacy, security, and freedom.&lt;/li>
+&lt;/ul>
+&lt;h2 id="search-engine">Search Engine&lt;/h2>
+&lt;ul>
+&lt;li>DuckDuckGo – Doesn&amp;rsquo;t track your searches.&lt;/li>
+&lt;li>Mojeek – Independent crawler and privacy-friendly.&lt;/li>
+&lt;li>Startpage – Google results but with privacy.&lt;/li>
+&lt;/ul>
+&lt;h2 id="operating-systems">Operating Systems&lt;/h2>
+&lt;ul>
+&lt;li>Tails OS – Live OS aimed at preserving privacy and anonymity.&lt;/li>
+&lt;li>Whonix – Tor-based OS focused on security.&lt;/li>
+&lt;/ul>
+&lt;h2 id="messenger">Messenger&lt;/h2>
+&lt;ul>
+&lt;li>Signal – Encrypted messenger, open-source.&lt;/li>
+&lt;li>Session – Anonymous, decentralized messaging.&lt;/li>
+&lt;/ul>
+&lt;h2 id="anti-trackers-and-scripts">Anti-Trackers and Scripts&lt;/h2>
+&lt;ul>
+&lt;li>uBlock Origin – Efficient blocker for ads and trackers.&lt;/li>
+&lt;li>Privacy Badger – Auto-learns and blocks trackers.&lt;/li>
+&lt;li>NoScript – Full control of JavaScript execution.&lt;/li>
+&lt;/ul>
+&lt;h2 id="going-off-grid">Going Off Grid&lt;/h2>
+&lt;h3 id="general-practices">General Practices&lt;/h3>
+&lt;ul>
+&lt;li>Use a burner phone or non-networked device.&lt;/li>
+&lt;li>Disable location and Bluetooth when not needed.&lt;/li>
+&lt;li>Be aware of metadata in media and files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="burner-phones">Burner Phones&lt;/h2>
+&lt;h3 id="variant-1-classic-button-phone">Variant 1: Classic Button Phone&lt;/h3>
+&lt;ul>
+&lt;li>Buy a classic phone (no GPS, no apps).&lt;/li>
+&lt;li>Pay in cash, in-person.&lt;/li>
+&lt;li>Buy prepaid SIM (different store, cash, no ID).&lt;/li>
+&lt;li>Disable voicemail.&lt;/li>
+&lt;li>Power off when unused.&lt;/li>
+&lt;li>Use for outgoing communication only.&lt;/li>
+&lt;li>Do not store real names.&lt;/li>
+&lt;li>Rules: No use at home, keep in Faraday pouch.&lt;/li>
+&lt;li>Extreme case: destroy flash and SIM physically (drill, melt, etc.).&lt;/li>
+&lt;/ul>
+&lt;h3 id="variant-2-cheap-android--custom-rom">Variant 2: Cheap Android + Custom ROM&lt;/h3>
+&lt;ul>
+&lt;li>Buy cheap Android (e.g., Motorola G52). Avoid iPhone/Samsung.&lt;/li>
+&lt;li>Flash GrapheneOS or CalyxOS.&lt;/li>
+&lt;li>Never use your home Wi-Fi.&lt;/li>
+&lt;li>Don&amp;rsquo;t insert personal SIM.&lt;/li>
+&lt;li>Use cash-prepaid SIM.&lt;/li>
+&lt;li>Only install essentials: Signal, Session, SimpleX.&lt;/li>
+&lt;li>Use PIN – No biometrics.&lt;/li>
+&lt;li>Keep GPS, BT, Wi-Fi off unless needed.&lt;/li>
+&lt;/ul>
+&lt;h3 id="extra-paranoia-tips">Extra Paranoia Tips&lt;/h3>
+&lt;ul>
+&lt;li>Wrap in tinfoil if no Faraday pouch.&lt;/li>
+&lt;li>Don&amp;rsquo;t use near personal devices – triangulation is real.&lt;/li>
+&lt;li>Don&amp;rsquo;t cloud sync or backup.&lt;/li>
+&lt;li>No identifying photos.&lt;/li>
+&lt;li>If compromised: nuke (drill, microwave, electrocute).&lt;/li>
+&lt;/ul>
+&lt;h2 id="non-network-devices">Non-network Devices&lt;/h2>
+&lt;h3 id="examples">Examples&lt;/h3>
+&lt;ul>
+&lt;li>Old laptops with Wi-Fi/Ethernet disabled.&lt;/li>
+&lt;li>Air-gapped PCs (used in military, cold wallets).&lt;/li>
+&lt;li>MP3 players, cameras, retro consoles.&lt;/li>
+&lt;/ul>
+&lt;h3 id="setup">Setup&lt;/h3>
+&lt;ul>
+&lt;li>Wipe data completely.&lt;/li>
+&lt;li>Install a secure OS: Tails, Whonix, Qubes, Alpine.&lt;/li>
+&lt;li>Remove or disable Wi-Fi card (BIOS or physical removal).&lt;/li>
+&lt;li>Never connect to any network.&lt;/li>
+&lt;li>Only use trusted USBs – check for hidden files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="awareness-of-metadata">Awareness of Metadata&lt;/h2>
+&lt;ul>
+&lt;li>Use ExifTool to inspect or remove metadata.
+&lt;ul>
+&lt;li>Install: &lt;a href="https://exiftool.org/install.html">https://exiftool.org/install.html&lt;/a>&lt;/li>
+&lt;li>Remove: &lt;code>exiftool -all:all= -r /path/to/files/&lt;/code>&lt;/li>
+&lt;li>View: &lt;code>exiftool /path/to/file&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tips-and-tricks">Tips and Tricks&lt;/h2>
+&lt;ul>
+&lt;li>Change IP and MAC addresses regularly.&lt;/li>
+&lt;li>Use multiple aliases and devices.&lt;/li>
+&lt;li>Avoid repeating patterns (same AP, time, message format).&lt;/li>
+&lt;li>Don’t link or reuse accounts.&lt;/li>
+&lt;li>Use password manager (Bitwarden).&lt;/li>
+&lt;li>Don’t reuse photos/text – avoid reverse search.&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-tools-and-resources">Recommended Tools and Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.privacytools.io/">https://www.privacytools.io/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://grapheneos.org/">https://grapheneos.org/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://calyxos.org/">https://calyxos.org/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.amazon.com/s?k=faraday+bag">https://www.amazon.com/s?k=faraday+bag&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="security-myths">Security Myths&lt;/h2>
+&lt;ul>
+&lt;li>VPN ≠ Anonymity – It hides your IP but not your identity.&lt;/li>
+&lt;li>Incognito Mode ≠ Private – It doesn’t stop trackers or hide activity from your ISP.&lt;/li>
+&lt;li>Burner SIMs are trackable – If patterns are reused or locations overlap.&lt;/li>
+&lt;/ul>
+&lt;h2 id="levels-of-paranoia">Levels of Paranoia&lt;/h2>
+&lt;ul>
+&lt;li>Basic – Signal, ProtonMail, DuckDuckGo.&lt;/li>
+&lt;li>Intermediate – Burner phones, non-networked devices.&lt;/li>
+&lt;li>Advanced – Air-gapped systems, no online presence, physical data destruction.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Stay safe. Stay aware. Privacy is not a crime.&lt;/p></description></item></channel></rss>
