@@ -1,0 +1,30 @@
+baseURL = "https://xTeel-Code.github.io/"
+languageCode = "en-us"
+title = "xTeel-Code"
+theme = "paper"
+enableRobotsTXT = true
+paginate = 5
+
+[params]
+  color = "gray"               # gray, red, blue, green, pink
+  avatar = "img/avatar.png"    # optional: static/img/avatar.png
+  name = "xTeel-Code"
+  bio = "Exploring tech, hacking, and staying in the shadows"
+  disableThemeToggle = false   # true = light only
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
