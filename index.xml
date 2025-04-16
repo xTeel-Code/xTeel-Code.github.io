@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xTeel-Code's Blog</title><link>https://example.org/</link><description>Recent content on xTeel-Code's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 14:15:15 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadow in Virtual Space</title><link>https://example.org/posts/shadow-in-virtual-space/</link><pubDate>Wed, 16 Apr 2025 14:15:15 +0200</pubDate><guid>https://example.org/posts/shadow-in-virtual-space/</guid><description>&lt;h1 id="table-of-contents">Table of Contents&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xTeel-Code's Blog</title><link>https://example.org/</link><description>Recent content on xTeel-Code's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 15:06:31 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>OSINT</title><link>https://example.org/posts/osint/</link><pubDate>Wed, 16 Apr 2025 15:06:31 +0200</pubDate><guid>https://example.org/posts/osint/</guid><description>&lt;h1 id="osint-tools--methods">OSINT Tools &amp;amp; methods&lt;/h1>
+&lt;h2 id="-disclaimer">⚠️ Disclaimer&lt;/h2>
+&lt;p>This repository is intended &lt;strong>for educational purposes only&lt;/strong>.&lt;/p>
+&lt;p>All tools, techniques, and information provided here are meant to help individuals:&lt;/p>
+&lt;ul>
+&lt;li>Understand open-source intelligence (OSINT)&lt;/li>
+&lt;li>Improve personal and organizational cybersecurity awareness&lt;/li>
+&lt;li>Explore ethical and legal methods of online investigation&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Use responsibly.&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>The authors and contributors do &lt;strong>not condone&lt;/strong> or support:&lt;/p>
+&lt;ul>
+&lt;li>Unlawful surveillance or harassment&lt;/li>
+&lt;li>Unauthorized data collection or access&lt;/li>
+&lt;li>Any use of this code or information that violates local, national, or international laws&lt;/li>
+&lt;/ul>
+&lt;p>By using this repository, you agree to use it &lt;strong>only within legal boundaries&lt;/strong> and for &lt;strong>ethical research or educational objectives&lt;/strong>.&lt;/p></description></item><item><title>Shadow in Virtual Space</title><link>https://example.org/posts/shadow-in-virtual-space/</link><pubDate>Wed, 16 Apr 2025 14:15:15 +0200</pubDate><guid>https://example.org/posts/shadow-in-virtual-space/</guid><description>&lt;h1 id="table-of-contents">Table of Contents&lt;/h1>
 &lt;ul>
 &lt;li>&lt;a href="#tempdisposable-emails">Temp/Disposable Emails&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#browser">Browser&lt;/a>&lt;/li>
